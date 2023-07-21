@@ -1,48 +1,36 @@
-# Hi, I'm Irene Cazaux 👋🏼👨🏻‍💻
-I'm a Software Architect, Front-End & UX/UI specialist, focused on SAP Spartacus development and a Metaverse advocate.
+# Hi, I'm Irene Cazaux 👋🏼
+I'm a UX/UI Designer based in Edinburgh, UK.
 
+My professional journey began as a graphic designer. Immerse in the realm of visuals, I breathed life into brands and effectively communicated their essence through my designs. As my career unfolded, I ventured beyond borders, finding myself in the creative landscapes of Germany and the United Kingdom.
+
+During my time as a graphic designer, I had a profound realization: I yearned to create meaningful impacts on users' lives. This awakening ignited my passion for exploring the captivating realm of User Experience (UX) design. Driven by my autodidactic nature, I eagerly absorbed knowledge about human behavior, psychology, and problem-solving, allowing me to transition into a dynamic UX Designer. Now, I possess the ability to craft simple and meaningful user experiences.
+
+Throughout my professional journey as a UX Designer, I have thrived in B2B business environments where collaboration and teamwork have become integral parts of my creative process. Working alongside other teams within the organization, I find immense joy in the collaborative processes that lead to innovative solutions.
+
+Beyond my professional pursuits, I embrace an active social life, seeking inspiration from cinema and new destinations. These experiences serve as a wellspring of creativity, expanding my perspectives and fueling my imagination.
+
+Cats hold a special place in my heart, serving as a constant reminder of the importance of balance and mindfulness. During my free time, you'll find me engrossed in captivating books or embarking on exciting adventures to explore diverse cultures and expand my horizons.
  
-
-With over 20 years of experience in IT, Marketing and Design, I have oriented my professional career to Web Development, Team and Technical Leader based in JavaScript / Typescript technologies (Angular, React, VueJS, etc.)
-
- 
-
-Currently, I´m working in Advanced Technology Centre (ATC) in Accenture Spain. Previously I have worked in other biggest companies as Minsait/INDRA and NTTData. For all this, I have had the honor to participate in amazing projects of important companies or organizations as WIPO, Invesis Banck, Evo Bank, Santander Bank, Orange, Jazztel, Acciona, Heineken, Valencian Community, Paco Rabanne, and other.
-
- 
-
-I been participated in the entire lifecycle of various IT projects, including consulting, planning, development, implementation, maintenance and support. I have played a key role in directly managing key stakeholders, customers, suppliers and collaborators, enjoying each project phase. My professional experience and direct contact with clients and users allow me to have a business and user focus.
-
- 
-
-I've worked for advertising and marketing agencies in my early years, where I gained knowledge and experience in the fascinating design world. This experience allows me to have a robust user interface and usability base, which I consider vital for developing current digital products and the new tech opportunities as Metaverse, Extended Reality (XR) and other.
-
- 
-
-I´m passionate about my profession. I attend various talks, courses, and clubs and participate in volunteer and coaching projects related to the world of technology, the environment and social inclusion. I´m especially interested in Metaverse, Extended Reality (XR) and all his variant of this amazing and revolutionary sector, in which I'm an autodidact.
-
- 
-
-Passionate, self-taught, responsible, committed and motivated for new challenges with an entrepreneurial and creative attitude. Always open to sharing knowledge and challenges with colleagues, managers and IT enthusiasts.
-
- 
-
-Thanks for reading, see you! 😉
-
+Gracias totales!
  
 
 
 ## Find me around the web 🌎:
-- <a href="https://marcoscazaux.com">Professional Website</a>
-- <a href="https://linkedin.com/in/marcoscazaux">LinkedIn</a>
-- <a href="https://marcoscazaux.github.io">GitHub Pages</a>
-- <a href="https://twitter.com/Marcos_Cazaux">Twitter</a>
+- <a href="https://irenecazaux.com">Portfolio</a>
+- <a href="https://linkedin.com/in/irenecazaux">LinkedIn</a>
+- <a href="https://twitter.com/irenecazauxdesign">Instagram</a>
 
- 
 
 ---
 
- 
 
 #####
-Adobe Creative Suite (ACS) · Agile Methodologies · Amazon Web Services (AWS) · Angular · Augmented Reality (AR) · Block, Element, Modifier Methodology (BEM) · Claris Filemaker · Cross-browser Compatibility · CSS3 · Database Modelling · E-Commerce · Extended Reality (XR) · Front-End · Functional Analysis · Google Analytics · Google Cloud Platform (GCP) · Google Lighthouse Audit · Graphic Design · Inverted Triangle CSS (ITCSS) · Leadership · Metaverse · Micro-Frontend Architecture · Microsoft Azure · Mixed Reality (MR) · Mobile First Design (MFD) · Mobile Web Design (MWD) · MySQL · Pixel Perfect Design (PPD) · Progressive Web Applications (PWA) · React · Responsive Web Design (RWD) · RxJS · SAP Spartacus · SASS · Search Engine Optimization (SEO) · Semantic HTML5 · Single Page Applications (SPA) · Software Architecture · Sonarqube · Team Leadership · Technical Leadership · Three.js · TypeScript · Unified Modeling Language (UML) · Unity 3D · User Experience (UX) · User Interface (UI) · Virtual Reality (VR) · WebGL
+User Experience Design (UX) · User Interface Design (UI) · Graphic Design · Editorial Design · Visual Design · Accessibility · UX Research (UXR) · Mobile First Design (MFD) · Responsive Web Design (RWD) · Storytelling
+
+Agile · Design Thinking · Lean UX · Workshops · Cross-functional Collaboration · Design Systems
+
+Adobe Creative Suite (ACS) · Figma · Sketch · Axure RP · Visual Studio Code
+
+HTML5 · CSS3 · SASS · Google Analytics · Google Lighthouse Audit · Axe DevTool (Deque)
+
+English (Professional Advance) · Spanish (native)  · German (A2)
